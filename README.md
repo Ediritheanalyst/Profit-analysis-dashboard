@@ -75,4 +75,4 @@ The company is **profitable with strong sales volume**, but profitability is **u
 A focused strategy on **high-performing products, key states, and seasonal opportunities** will ensure **sustainable growth**.  
 
 ---
-![profit analysis dashboard](profit analysis dashboard.jpg)
+![Profit Analysis Dashboard](profit%20analysis%20dashboard.jpg)
